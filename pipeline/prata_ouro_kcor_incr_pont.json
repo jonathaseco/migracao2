@@ -361,7 +361,7 @@
 			"name": "KCOR/INCREMENTAL/PONT"
 		},
 		"annotations": [],
-		"lastPublishTime": "2023-10-19T12:16:31Z"
+		"lastPublishTime": "2023-10-19T14:38:13Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
